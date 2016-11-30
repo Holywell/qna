@@ -17,3 +17,14 @@
 .byebug_history
 
 config/database.yml
+.idea
+.idea/dataSources.xml
+.idea/runConfigurations/Development__qna.xml
+.idea/runConfigurations/Production__qna.xml
+.idea/runConfigurations/spec__qna.xml
+.idea/runConfigurations/test__qna.xml
+.idea/vcs.xml .idea/runConfigurations/Development__qna.xml
+.idea/runConfigurations/Production__qna.xml
+.idea/runConfigurations/spec__qna.xml
+.idea/runConfigurations/test__qna.xml
+.idea/vcs.xml
